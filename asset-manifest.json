@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/training-tailwindCss-react-firebase/static/css/main.995fe1f0.css",
+    "main.js": "/training-tailwindCss-react-firebase/static/js/main.029ede2b.js",
+    "index.html": "/training-tailwindCss-react-firebase/index.html",
+    "main.995fe1f0.css.map": "/training-tailwindCss-react-firebase/static/css/main.995fe1f0.css.map",
+    "main.029ede2b.js.map": "/training-tailwindCss-react-firebase/static/js/main.029ede2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995fe1f0.css",
+    "static/js/main.029ede2b.js"
+  ]
+}
